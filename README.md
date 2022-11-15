@@ -1,5 +1,5 @@
 # Joshua Johns👋
-🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
+🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for server side
 
 🌱 Searching to find my way into my new career as a Developer
 ## Contact Info
@@ -13,7 +13,7 @@
 #### 3. CSS
 
 ## Favorite Projects
-#### https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
+#### 1. (built with React) https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
 <!--
 
 
