@@ -11,6 +11,9 @@
 #### 1. Javascript
 #### 2. React
 #### 3. CSS
+
+## Favorite Projects
+#### https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
 <!--
 
 
