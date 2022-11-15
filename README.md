@@ -6,9 +6,7 @@
   #### Phone#: (615)-766-5360
   #### Email: joshuajohns28@outlook.com
   #### LinkedIn: www.linkedin.com/in/joshua-johns-007347257
-  C# JavaScript HTML5 React CSS3
-
-Sass Bootstrap NodeJS MySQL .NET Figma
+C# JavaScript HTML5 React CSS3
 <!--
 
 
