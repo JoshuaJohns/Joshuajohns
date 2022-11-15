@@ -1,8 +1,8 @@
 # Joshua Johns👋
-
-<!--
 ## Contact Info
 <!--
+
+
 
 Here are some ideas to get you started:
 
