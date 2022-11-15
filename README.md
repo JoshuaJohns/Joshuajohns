@@ -6,7 +6,11 @@
   #### Phone#: (615)-766-5360
   #### Email: joshuajohns28@outlook.com
   #### LinkedIn: www.linkedin.com/in/joshua-johns-007347257
-C# JavaScript HTML5 React CSS3
+
+## Skills
+#### 1. Javascript
+#### 2. React
+#### 3. CSS
 <!--
 
 
