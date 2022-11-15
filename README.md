@@ -1,4 +1,7 @@
 # Joshua Johns👋
+🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
+
+🌱 Searching to find my way into my new career as a Developer contact me
 ## Contact Info
   #### Phone#: (615)-766-5360
   #### Email: joshuajohns28@outlook.com
