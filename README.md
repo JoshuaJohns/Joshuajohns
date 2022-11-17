@@ -3,7 +3,6 @@
 
 🌱 Searching to find my way into my new career as a Developer
 ## Contact Info
-  #### Phone#: (615)-766-5360
   #### Email: joshuajohns28@outlook.com
   #### LinkedIn: www.linkedin.com/in/joshua-johns-007347257
 
