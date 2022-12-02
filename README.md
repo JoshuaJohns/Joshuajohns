@@ -10,6 +10,8 @@
 #### 1. Javascript
 #### 2. React
 #### 3. CSS
+#### 4. C#
+#### 5. C++
 
 ## Favorite Projects
 #### 1. (built with React) https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
