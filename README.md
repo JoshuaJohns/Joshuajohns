@@ -3,7 +3,7 @@
 
 🌱 Searching to find my way into my new career as a Developer
 ## Contact Info
-  #### Email: joshuajohns28@outlook.com
+  #### Email: joshuawjohns66@gmail.com
   #### LinkedIn: www.linkedin.com/in/joshuajohns66
 
 ## Skills
