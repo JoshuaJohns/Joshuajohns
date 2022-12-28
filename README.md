@@ -5,6 +5,7 @@
 ## Contact Info
   #### Email: joshuawjohns66@gmail.com
   #### LinkedIn: www.linkedin.com/in/joshuajohns66
+  #### Personal Website: https://joshuajohns.github.io/PersonalWebsite/
 
 ## Skills
 #### 1. Javascript
