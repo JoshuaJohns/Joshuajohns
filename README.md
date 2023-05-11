@@ -15,7 +15,8 @@
 #### 5. SQL
 
 ## Favorite Projects
-#### 1. (built with React) https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
+#### 1. (C#, SQL, and React) https://github.com/JoshuaJohns/ReadyLine
+#### 2. (built with React) https://github.com/JoshuaJohns/Smokey-Mountain-Landscaping
 <!--
 
 
